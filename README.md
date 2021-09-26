@@ -37,4 +37,4 @@ No total são 3 objetos que podem ser abertos/fechados, sendo eles duas janelas 
 * [Viewing obj file format](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
 * [Applying MSAA](https://learnopengl.com/Advanced-OpenGL/Anti-Aliasing)
 * [Textures in OpenGL](https://www.youtube.com/watch?v=n4k7ANAFsIQ)
-* https://www.blender.org/download/
+* [Download Blender](https://www.blender.org/download/)
