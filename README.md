@@ -21,13 +21,17 @@ Para ligar ou desligar a luminária, utilize a tecla `k`.
 ## Requisitos da reav. AB1
 
  - [:heavy_check_mark:] Poder navegar pela cozinha utilizando o mouse e teclado;
- - [:heavy_check_mark:] A cozinha deverá ter no mínimo 10 objetos (Programa usando para modelagem "Blender");
+ - [:Cross Mark:] A cozinha deverá ter no mínimo 10 objetos (Programa usando para modelagem "Blender");
+ - falta integrar ao codigo mais 3 objetos ja modelados para completar esse quesito.
  - [:heavy_check_mark:] Uma porta deverá poder abrir e fechar com o teclado;
  - [:heavy_check_mark:] Uma janela deverá abrir e fechar como teclado;
- - [:heavy_check_mark:] 1 relógio de parede com transformações geométricas, marcando a hora, minutos e segundos;
+ - [:Cross Mark:] 1 relógio de parede com transformações geométricas, marcando a hora, minutos e segundos;
+ - falta integrar esse objeto ao codigo.
  - [:heavy_check_mark:] Modelar o exterior da casa (cerca, árvore, jardim, mais 5 objetos);
- - [:heavy_check_mark:] Integrar a cozinha ao exterior da casa;
- - [:heavy_check_mark:] Criar um Sol e uma Lua para simular o dia e a noite usando o teclado;
+ - [:Cross Mark:] Integrar a cozinha ao exterior da casa;
+ - falta anexar a cozinha ao exterior ja modelado.
+ - [:Cross Mark:] Criar um Sol e uma Lua para simular o dia e a noite usando o teclado;
+ - falta integrar as funções do teclado.
  - [:heavy_check_mark:] Qualidade da modelagem.
 
 
