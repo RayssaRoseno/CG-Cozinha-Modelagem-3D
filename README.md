@@ -21,7 +21,7 @@ Para ligar ou desligar a luminária, utilize a tecla `k`.
 ## Requisitos da reav. AB1
 
  - [:heavy_check_mark:] Poder navegar pela cozinha utilizando o mouse e teclado;
- - [:heavy_check_mark:] A cozinha deverá ter no mínimo 10 objetos (Programa usando para modelagem "Blender");
+ - [:heavy_check_mark:] A cozinha deverá ter no mínimo 10 objetos (Programa usado para modelagem "Blender");
  - [:heavy_check_mark:] Uma porta deverá poder abrir e fechar com o teclado;
  - [:heavy_check_mark:] Uma janela deverá abrir e fechar como teclado;
  - [:heavy_check_mark:] 1 relógio de parede com transformações geométricas, marcando a hora, minutos e segundos;
