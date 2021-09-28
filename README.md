@@ -15,6 +15,8 @@ Para movimentação vertical, utilize `barra de espaço` para ir para cima e `b`
 
 Para abrir e fechar a portas, pressione a tecla `p` para abrir, `o` para fechar, e para abrir e fechar as janelas, pressione `l` para abrir e `m` para fechar.
     No total são 3 objetos que podem ser abertos/fechados, sendo eles duas janelas e uma porta.
+    
+Para parar ou fazer o sol e a lua continuar transladar e rotacionar pressione `i`.
 
 Para ligar ou desligar a luminária, utilize a tecla `k`.
 
